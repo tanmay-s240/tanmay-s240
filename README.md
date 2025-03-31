@@ -16,13 +16,6 @@ What excites me most is transforming raw scientific data into meaningful insight
 
 🌍 Global Health & Science Communication – Bridging the gap between cutting-edge research and real-world impact
 
-🌱 Currently Learning
-Advanced AI models for protein biomarker analysis
-
-Data-driven health solutions & computational biology
-
-Full-stack web development to build interactive science-driven platforms
-
 💡 Looking to Collaborate On
 AI-powered research in molecular biology & diagnostics
 
@@ -33,12 +26,7 @@ Strategic projects that blend science, technology, and business
 📫 How to Reach Me
 LinkedIn: linkedin.com/in/tanmaysethi
 
-Email: tanmay@example.com
 
-Portfolio (Coming Soon!): tanmaysethi.com
-
-⚡ Fun Fact
-When I’m not deep-diving into data models, research papers, or market analytics, you’ll probably find me discussing sci-fi tech, optimizing workflows, or exploring the latest in AI-driven healthcare!
 
 
 
