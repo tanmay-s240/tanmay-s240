@@ -1,31 +1,4 @@
-👋 Hi, I’m Tanmay Sethi
-🔬 Molecular & Cellular Biology + Health Technology @ UIUC
-💡 AI | Protein Engineering | Health Tech | Consumer Insights
 
-🚀 About Me
-I’m a passionate explorer at the intersection of science, technology, and strategy. Currently, I’m pursuing a B.S. in Molecular & Cellular Biology + Health Technology at the University of Illinois Urbana-Champaign, combining my love for biology with a deep interest in real-world applications that drive innovation.
-
-What excites me most is transforming raw scientific data into meaningful insights—whether it's through AI-driven diagnostics, protein engineering, or consumer analytics. I thrive on challenges where I can leverage data, technology, and strategic thinking to optimize health solutions, enhance user engagement, and drive impactful decisions.
-
-🔬 My Interests
-
-🧬 Protein Engineering & AI in Diagnostics – Predicting protein expression trends and identifying therapeutic targets
-
-📊 Consumer Insights & Digital Strategy – Analyzing data to optimize engagement and user experience
-
-🤖 Health Tech Innovation – Exploring how AI can enhance medical research and diagnostics
-
-🌍 Global Health & Science Communication – Bridging the gap between cutting-edge research and real-world impact
-
-💡 Looking to Collaborate On
-AI-powered research in molecular biology & diagnostics
-
-Data-driven consumer insights & digital transformation
-
-Strategic projects that blend science, technology, and business
-
-📫 How to Reach Me
-LinkedIn: linkedin.com/in/tanmaysethi
 
 
 
