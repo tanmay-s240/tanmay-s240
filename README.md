@@ -8,6 +8,7 @@ I’m a passionate explorer at the intersection of science, technology, and stra
 What excites me most is transforming raw scientific data into meaningful insights—whether it's through AI-driven diagnostics, protein engineering, or consumer analytics. I thrive on challenges where I can leverage data, technology, and strategic thinking to optimize health solutions, enhance user engagement, and drive impactful decisions.
 
 🔬 My Interests
+
 🧬 Protein Engineering & AI in Diagnostics – Predicting protein expression trends and identifying therapeutic targets
 
 📊 Consumer Insights & Digital Strategy – Analyzing data to optimize engagement and user experience
